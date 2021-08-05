@@ -1,7 +1,1 @@
-<<<<<<< HEAD
-const greet = (name = "World") => {
-  return `Hello ${name}!`;
-}
-=======
 const helloWorld = (name = "World") => `Hello ${name}!`;
->>>>>>> fix/implicit_return
